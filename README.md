@@ -1,4 +1,5 @@
-# De-Mystifying ML Analyze large datasets of digitized measurements of individual DNA molecules behaviour. 
+# De-Mystifying ML. 
+Analyze large datasets of digitized measurements of individual DNA molecules behaviour. 
 
 1. Magnetic tweezers MT data; methylated vs control DNA.
 2. Clean csv/excel files. Magnet position(x) to Force F (y). numpy, scipy
