@@ -8,7 +8,9 @@ A reproducible Python analysis of single-molecule magnetic-tweezers data examini
 
 ## Representative Result
 
-![WLC analysis of control and methylated DNA](figures/force_extension_wlc.png)
+<p align="center">
+  <img src="figures/force_extension_wlc.png" width="700" alt="WLC analysis of control and methylated DNA">
+</p>
 
 The notebook contains the complete reproducible workflow, including data-quality assessment, WLC modeling, persistence-length estimation, residual diagnostics, and exploratory classification.
 
