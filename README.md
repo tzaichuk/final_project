@@ -6,6 +6,10 @@ A reproducible Python analysis of single-molecule magnetic-tweezers data examini
 
 **[Open the complete Jupyter notebook](codes/single_molecule_DNA_portfolio_analysis.ipynb)**
 
+## Representative Result
+
+![WLC analysis of control and methylated DNA](figures/force_extension_wlc.png)
+
 The notebook contains the complete reproducible workflow, including data-quality assessment, WLC modeling, persistence-length estimation, residual diagnostics, and exploratory classification.
 
 This portfolio project combines **experimental molecular biophysics, data-quality assessment, polymer-physics modeling, statistical analysis, and exploratory machine learning** using representative datasets from previously published single-molecule DNA experiments.
